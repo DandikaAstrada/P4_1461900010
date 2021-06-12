@@ -1,0 +1,1 @@
+Database = http://localhost/phpmyadmin/db_structure.php?db=p_pagi
